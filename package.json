@@ -1,14 +1,10 @@
 {
   "name": "@vectorscores/design",
   "version": "1.0.0",
-  "description": "`convert -size 128x128 -gravity center -background transparent -font Times-BoldItalic label:vs vs.png`",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "John Teske",
-  "license": "MIT",
-  "dependencies": {
-    "eleventy-lib": "github:johnteske/eleventy-lib"
-  }
+  "license": "MIT"
 }
